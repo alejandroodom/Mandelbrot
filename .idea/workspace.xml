@@ -21,7 +21,6 @@
       <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/WorkerCountSpinner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/main/java/module-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo/src/main/resources/com/example/demo/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1697111091587" duration="11000" />
       <workItem from="1697111115345" duration="10000" />
       <workItem from="1697111134045" duration="24000" />
-      <workItem from="1697111167745" duration="282000" />
+      <workItem from="1697111167745" duration="1097000" />
     </task>
     <servers />
   </component>
